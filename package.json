@@ -1,0 +1,19 @@
+{
+  "name": "snagor",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.6.0"
+  },
+  "dependencies": {
+    "enumify": "^1.0.4",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "wacktor": "^1.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  }
+}
